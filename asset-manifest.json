@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jb-dev/static/css/main.44167d4a.css",
-    "main.js": "/jb-dev/static/js/main.c2bbe03f.js",
+    "main.css": "/jb-dev/static/css/main.3ae2cab8.css",
+    "main.js": "/jb-dev/static/js/main.279b3413.js",
     "static/js/787.6d095b42.chunk.js": "/jb-dev/static/js/787.6d095b42.chunk.js",
     "static/media/Capture1.jpg": "/jb-dev/static/media/Capture1.c33c3d61463ae36308a9.jpg",
     "static/media/Capture3.jpg": "/jb-dev/static/media/Capture3.26799a2170cd4643becb.jpg",
@@ -32,19 +32,19 @@
     "static/media/css3-original-wordmark.svg": "/jb-dev/static/media/css3-original-wordmark.1d023123249332b8246d98e506eaa7a6.svg",
     "static/media/html5-original-wordmark.svg": "/jb-dev/static/media/html5-original-wordmark.ed5a66323fb7466700b1b551dcf00ea5.svg",
     "static/media/arrow-up-right-from-square-solid.svg": "/jb-dev/static/media/arrow-up-right-from-square-solid.593fc4e665a2b5339acb9500ad5c7dea.svg",
-    "static/media/nextjs-original-wordmark.svg": "/jb-dev/static/media/nextjs-original-wordmark.87c6bb812d14217a2f68856845c6f754.svg",
     "index.html": "/jb-dev/index.html",
+    "static/media/nextjs-original-wordmark.svg": "/jb-dev/static/media/nextjs-original-wordmark.87c6bb812d14217a2f68856845c6f754.svg",
     "static/media/xmark-solid.svg": "/jb-dev/static/media/xmark-solid.6837248f26b4746bca22dce7c606b744.svg",
     "static/media/arrow-right-long-solid.svg": "/jb-dev/static/media/arrow-right-long-solid.9abf2cb32625c7bbbfbe6ed612ea6410.svg",
     "static/media/angle-down-solid.svg": "/jb-dev/static/media/angle-down-solid.4e67b88abf70a8aa668b72a65f53ce81.svg",
     "static/media/materialui-original.svg": "/jb-dev/static/media/materialui-original.87264df237ee700ba78bb58ff701a6d3.svg",
     "static/media/npm-original-wordmark.svg": "/jb-dev/static/media/npm-original-wordmark.87689eab730642c86d2b01f3ef4a19e3.svg",
-    "main.44167d4a.css.map": "/jb-dev/static/css/main.44167d4a.css.map",
-    "main.c2bbe03f.js.map": "/jb-dev/static/js/main.c2bbe03f.js.map",
+    "main.3ae2cab8.css.map": "/jb-dev/static/css/main.3ae2cab8.css.map",
+    "main.279b3413.js.map": "/jb-dev/static/js/main.279b3413.js.map",
     "787.6d095b42.chunk.js.map": "/jb-dev/static/js/787.6d095b42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44167d4a.css",
-    "static/js/main.c2bbe03f.js"
+    "static/css/main.3ae2cab8.css",
+    "static/js/main.279b3413.js"
   ]
 }
